@@ -1,1 +1,4 @@
-# TODO.md
+*.o
+*.exe
+TODO.md
+.vscode

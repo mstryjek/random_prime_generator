@@ -1,6 +1,3 @@
-- [ ] Convert int to typename T
-- [ ] Update README
-- [ ] Figure out CMake
-
-
-
+### TODO:
+- [ ] Split `randprime()` into three smaller functions
+- [ ] Figure out these functions to be static templates
